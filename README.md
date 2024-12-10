@@ -1,12 +1,21 @@
 - 👋 Hi, I’m @samuelindrawijaya
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-<!---
-samuelindrawijaya/samuelindrawijaya is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👀 I’m interested in web development, software engineering, DevOps, and exploring cutting-edge technologies.
+- 🌱 I’m currently learning advanced Python programming, Flask/Django for backend development, Next.js for frontend, and optimizing PostgreSQL databases.
+- 💻 My Skills:
+  - **Programming Languages**: Python, JavaScript, TypeScript, SQL, C#, PHP
+  - **Backend Development**: Flask, Django, FastAPI, Laravel, ASP .NET 
+  - **Frontend Development**: React.js, Next.js, Laravel Blade
+  - **Database Management**: PostgreSQL, MySQL
+  - **API Development**: REST API
+  - **Version Control**: Git, GitHub
+  - **Cloud Services**: Docker, CI/CD pipelines
+  - **Testing**: Pytest, Postman, Unit Testing
+  - **Agile Methodology**: Scrum, Kanban
+  - **E-commerce Expertise**: Building scalable platforms with secure payment integrations and voucher systems
+- 💞️ I’m looking to collaborate on exciting web or mobile app projects, particularly in e-commerce, fintech, or SaaS platforms.
+- 📫 How to reach me: 
+  - Email: samuelindrawijaya@example.com 
+  - LinkedIn: [Samuel Indrawijaya](https://linkedin.com/in/samuelindrawijaya)
+  - GitHub: [samuelindrawijaya](https://github.com/samuelindrawijaya)
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I love debugging complex systems, enjoy building APIs that "just work," and often find inspiration while hiking or brewing specialty coffee!

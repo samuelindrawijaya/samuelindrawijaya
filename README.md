@@ -18,4 +18,4 @@
   - LinkedIn: [Samuel Indrawijaya](https://linkedin.com/in/samuelindrawijaya)
   - GitHub: [samuelindrawijaya](https://github.com/samuelindrawijaya)
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I love debugging complex systems, enjoy building APIs that "just work," and often find inspiration while hiking or brewing specialty coffee!
+- ⚡ Fun fact: I’m a night owl who loves coding while listening to lo-fi music and sipping on hibiscus tea!

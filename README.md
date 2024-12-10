@@ -14,7 +14,7 @@
   - **E-commerce Expertise**: Building scalable platforms with secure payment integrations and voucher systems
 - 💞️ I’m looking to collaborate on exciting web or mobile app projects, particularly in e-commerce, fintech, or SaaS platforms.
 - 📫 How to reach me: 
-  - Email: samuelindrawijaya@example.com 
+  - Email: samuelindraw75@gmail.com 
   - LinkedIn: [Samuel Indrawijaya](https://linkedin.com/in/samuelindrawijaya)
   - GitHub: [samuelindrawijaya](https://github.com/samuelindrawijaya)
 - 😄 Pronouns: He/Him

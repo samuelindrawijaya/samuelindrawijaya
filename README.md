@@ -4,7 +4,7 @@
 - 💻 My Skills:
   - **Programming Languages**: Python, JavaScript, TypeScript, SQL, C#, PHP
   - **Backend Development**: Flask, Django, FastAPI, Laravel, ASP .NET 
-  - **Frontend Development**: React.js, Next.js, Laravel Blade
+  - **Frontend Development**: React.js, Next.js, Laravel Blade, React Native
   - **Database Management**: PostgreSQL, MySQL
   - **API Development**: REST API
   - **Version Control**: Git, GitHub
